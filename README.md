@@ -1,7 +1,7 @@
 
 Author- Genius 299
 <br>
-Just learning Githu
+Just learning Github
 
 #include <bits/stdc++.h>
 using namespace std;
