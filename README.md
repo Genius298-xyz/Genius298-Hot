@@ -7,7 +7,7 @@ Just learning Github
 using namespace std;
 
 // Function to merge two sorted halves
-void merge(vector<int> &arr, int left, int mid, int right) {
+void merge(vector<int> &arr, int left, int mid, int right){
     vector<int> temp;
     
     int i = left;      // starting index of left half
